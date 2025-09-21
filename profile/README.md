@@ -1,7 +1,7 @@
 # 🦋 IOKode
 IOKode is a [blog](https://iokode.blog) about software development and computer science.
 
-![IOKode Banner](https://user-images.githubusercontent.com/9193841/179422065-9b7a8279-b4fb-4329-aad0-7e368ded2da9.png)
+![IOKode Banner](banner.png)
 <p align="center">
 <a href="https://iokode.blog">Blog</a>
   —
