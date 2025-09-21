@@ -5,9 +5,9 @@ IOKode is a [blog](https://iokode.blog) about software development and computer 
 <p align="center">
 <a href="https://iokode.blog">Blog</a>
   —
-<a href="https://links.iokode.blog/linkedin">LinkedIn</a>
+<a href="https://www.linkedin.com/company/iokode">LinkedIn</a>
   —
-<a href="https://links.iokode.blog/twitter">X.com</a>
+<a href="https://x.com/iokode_blog">X.com</a>
 </p>
 
 ## Content Type
