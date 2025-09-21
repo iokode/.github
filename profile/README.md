@@ -1,22 +1,33 @@
 # 🦋 IOKode
-IOKode is a Spanish-speaking [YouTube channel](https://links.iokode.blog/youtube) and [blog](https://iokode.blog) about software development. All content is in Spanish language.
+IOKode is a [blog](https://iokode.blog) about software development and computer science.
 
 ![IOKode Banner](https://user-images.githubusercontent.com/9193841/179422065-9b7a8279-b4fb-4329-aad0-7e368ded2da9.png)
 <p align="center">
 <a href="https://iokode.blog">Blog</a>
+  —
 <a href="https://links.iokode.blog/linkedin">LinkedIn</a>
-<a href="https://links.iokode.blog/youtube">YouTube</a>
-<a href="https://links.iokode.blog/twitter">Twitter</a>
-<a href="https://links.iokode.blog/patreon">Patreon</a>
+  —
+<a href="https://links.iokode.blog/twitter">X.com</a>
 </p>
 
-## Tipo de contenido
-El contenido será principalmente sobre desarrollo de software, desde entradas y vídeos puramente técnicos, pasando por mis propias reflexiones y opiniones personales, hasta documentar desafíos con los que me he encontrado y como me he enfrentado a ellos hasta solucionar problemas.
+## Content Type
 
-Hay contenido para todo los niveles, desde artículos sobre como funciona algo a bajo nivel, hasta información que puede consumir incluso personas ajenas a la industria, por lo que si tus conocimientos no son muy avanzados, tal vez no todo el contenido sea para ti, pero sí que podrás consumir una gran parte de ellos.
+The content will be mainly about software development, ranging from purely technical posts, to my own reflections and personal opinions, to documenting challenges I have encountered and how I approached solving them.
 
-## Proyectos Open Source
-Además de contenido audiovisual y entradas de blog, desde IOKode se desarrollan algunos proyetos Open Source. Estos proyectos pueden ir desde librerías y frameworks como el proyecto [OpinionatedFramework](https://github.com/iokode/OpinionatedFramework) hasta aplicaciones completas.
+There is content for all levels, from articles on how something works at a low level, to information that can even be consumed by people outside the industry. So if your knowledge is not very advanced, not all of the content may be for you, but you will still be able to read a large part of it.
 
-## Apoyando el proyecto
-Próximamente...
+## Open Source Projects
+
+In addition to blog posts, IOKode develops several Open Source projects. These projects can range from libraries and frameworks such as the [OpinionatedFramework](https://github.com/iokode/OpinionatedFramework) project to complete applications.
+
+## Collaborating
+
+I’m opening the blog to collaborators in multiple ways:
+
+- **Write**: Guest authors are welcome to publish here. Free speech is constitutionally guaranteed. Posts can be tutorials, opinions, deep dives, commentary on industry trends, or anything else you’d like to share.
+- **Fix**: Posts are now plain Markdown files in a GitHub repository, so anyone can submit pull requests to correct typos, improve clarity, or add information.
+- **Donate**: If you’d like to help sustain the project, you can contribute through [GitHub Sponsors](https://github.com/sponsors/iokode).
+- **Comment**: Every post has a comments section. Whether you want to give feedback, ask questions, or share your experience, leaving a comment is a great way to contribute.
+- **Share**: Not ready to write or donate? No problem. You can still help a lot by simply sharing posts you find useful. Repost them on X, LinkedIn, Reddit, or just send them to a friend.
+
+If you’d like to publish a post, please make sure to read Section 2 of the [Constitution](https://iokode.blog/constitution).
